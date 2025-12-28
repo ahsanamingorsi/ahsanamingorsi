@@ -24,7 +24,7 @@ Currently exploring advanced **.NET development**, **web design**, and **full-st
 
 ### 🌐 Connect With Me
 🌍 Portfolio: [ahsanamingorsi.com](https://ahsanamingorsi.com)  
-📫 Email: *[ahsanamingorsi@gmail.com]* 
+📫 Email: *[ahsanamingorsi@gmail.com]*  
 💼 LinkedIn: *[https://in.linkedin.com/in/ahsan-amin-gorsi-439ab6345]*  
 
 ---
